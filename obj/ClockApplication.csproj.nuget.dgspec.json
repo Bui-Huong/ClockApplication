@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\New folder\\ClockApplication\\ClockApplication.csproj": {}
+    "e:\\New folder\\ClockApplication\\ClockApplication.csproj": {}
   },
   "projects": {
-    "E:\\New folder\\ClockApplication\\ClockApplication.csproj": {
+    "e:\\New folder\\ClockApplication\\ClockApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New folder\\ClockApplication\\ClockApplication.csproj",
+        "projectUniqueName": "e:\\New folder\\ClockApplication\\ClockApplication.csproj",
         "projectName": "ClockApplication",
-        "projectPath": "E:\\New folder\\ClockApplication\\ClockApplication.csproj",
+        "projectPath": "e:\\New folder\\ClockApplication\\ClockApplication.csproj",
         "packagesPath": "C:\\Users\\DELL VOSTRO\\.nuget\\packages\\",
-        "outputPath": "E:\\New folder\\ClockApplication\\obj\\",
+        "outputPath": "e:\\New folder\\ClockApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL VOSTRO\\AppData\\Roaming\\NuGet\\NuGet.Config"
