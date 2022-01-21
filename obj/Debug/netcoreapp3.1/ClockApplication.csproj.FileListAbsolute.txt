@@ -1,0 +1,13 @@
+E:\New folder\ClockApplication\bin\Debug\netcoreapp3.1\ClockApplication.exe
+E:\New folder\ClockApplication\bin\Debug\netcoreapp3.1\ClockApplication.deps.json
+E:\New folder\ClockApplication\bin\Debug\netcoreapp3.1\ClockApplication.runtimeconfig.json
+E:\New folder\ClockApplication\bin\Debug\netcoreapp3.1\ClockApplication.runtimeconfig.dev.json
+E:\New folder\ClockApplication\bin\Debug\netcoreapp3.1\ClockApplication.dll
+E:\New folder\ClockApplication\bin\Debug\netcoreapp3.1\ClockApplication.pdb
+E:\New folder\ClockApplication\obj\Debug\netcoreapp3.1\ClockApplication.csprojAssemblyReference.cache
+E:\New folder\ClockApplication\obj\Debug\netcoreapp3.1\ClockApplication.AssemblyInfoInputs.cache
+E:\New folder\ClockApplication\obj\Debug\netcoreapp3.1\ClockApplication.AssemblyInfo.cs
+E:\New folder\ClockApplication\obj\Debug\netcoreapp3.1\ClockApplication.csproj.CoreCompileInputs.cache
+E:\New folder\ClockApplication\obj\Debug\netcoreapp3.1\ClockApplication.dll
+E:\New folder\ClockApplication\obj\Debug\netcoreapp3.1\ClockApplication.pdb
+E:\New folder\ClockApplication\obj\Debug\netcoreapp3.1\ClockApplication.genruntimeconfig.cache
